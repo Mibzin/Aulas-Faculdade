@@ -6,19 +6,19 @@ $i=0;
         $i++;
     }
 echo "<hr>";
-    $i=11;
+$i=11;
     while ($i < 15) {
         echo "$i";
         $i++;
     }
 echo "<hr>";
-    $i=4;
+$i=4;
     while ($i >= 0) {
         echo "$i";
         $i--;
     }
 echo "<hr>";
-    $i=0;
+$i=0;
     while ($i <= 10) {
         echo "$i";
         $i+=2;
